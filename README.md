@@ -6,9 +6,9 @@ Junior Software Developer | Passionate about full-stack development, game develo
 
 ## About Me  
 - Currently improving my TypeScript and Data Structures & Algorithms skills  
-- Passionate about game development (C++, Phaser, p5.js) and interactive projects  
+- Passionate about game development (Phaser, p5.js) and interactive projects  
 - Experienced with JavaScript, React, Node.js, PostgreSQL, HTML, CSS  
-- Fun fact: I've played over 4k chess matches online and over 100 in classical over-the-board chess  
+- Fun fact: I've played over 4k chess matches online and over 100 in classical over-the-board chess and am in top 20% of players in the world 
 
 ---
 
