@@ -1,19 +1,19 @@
-# I'm Tim  
+# Hey, I'm Tim!  
 
-Junior Software Developer | Passionate about full-stack development, game development, and building scalable, user-focused applications.  
+Junior Software Developer | Passionate about full-stack development, new technologies, and building scalable, user-focused applications that solve problems.  
 
 ---
 
 ## About Me  
-- Currently improving my TypeScript and Data Structures & Algorithms skills  
-- Passionate about game development (Phaser, p5.js) and interactive projects  
+- Currently improving my TypeScript, React and CSS skills  
+- Passionate about creating smooth and user-friendly designs  
 - Experienced with JavaScript, React, Node.js, PostgreSQL, HTML, CSS  
-- Fun fact: I've played over 4k chess matches online and over 100 in classical over-the-board chess and am in top 20% of players in the world 
+- Fun fact: I've played over 5k chess matches and am in top 20% global leaderboard
 
 ---
 
 ## Tech Stack  
-Languages: JavaScript, TypeScript, C# 
+Languages: JavaScript, TypeScript 
 Front-End: React, HTML, CSS, Tailwind  
 Back-End: Node.js, Express, PostgreSQL   
 Tools: Git, GitHub, Jest, Supertest, Netlify, Cloudflare  
@@ -38,9 +38,9 @@ It fetches data from a custom-built RESTful API and enables interactive features
 ---
 
 ## Connect With Me  
-- 📧 Email: tymurholovko@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tymur-holovko/)    
+-  Email: tymurholovko@gmail.com  
+-  [LinkedIn](https://www.linkedin.com/in/tymur-holovko/)    
 
 ---
 
-Thanks for stopping by! I’m always open to collaboration, learning opportunities, or simply a chat about tech and development.
+Thanks for stopping by! I’m always open to collaboration, learning opportunities, or simply a chat!.
