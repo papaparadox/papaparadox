@@ -43,4 +43,4 @@ It fetches data from a custom-built RESTful API and enables interactive features
 
 ---
 
-Thanks for stopping by! I’m always open to collaboration, learning opportunities, or simply a chat!.
+Thanks for stopping by! I’m always open to collaboration, learning opportunities, or simply a chat!
